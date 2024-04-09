@@ -5,7 +5,7 @@ Aplicação desenvolvida no NLW Unite da Rocketseat na trilha Full Stack de HTML
 <br>
 
 <p align="center">
-  <img alt="Preview do projeto desenvolvido." src=".github/preview.png" width="50%">
+  <img alt="Preview do projeto desenvolvido." src="Projeto Pass in.jpg" width="50%">
 </p>
 
 🚀 Tecnologias
